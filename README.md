@@ -4,7 +4,7 @@
    Highly skilled and motivated Full Stack Web Developer with 7+ years of experience in designing, developing, and deploying responsive websites and web applications. Proficient in both frontend and backend technologies, with a proven track record of delivering high-quality code and scalable solutions. Passionate about user-centered design, performance optimization, and clean coding practices.
 </p>
 
-### Frontend Development
+### Frontend Development.
 
 - React.js <i class="fab fa-react"></i>
 - Next.js <i class="fab fa-react"></i>
