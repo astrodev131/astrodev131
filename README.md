@@ -1,4 +1,4 @@
-![gitartwork](gitartwork.svg)
+<p align="center">![gitartwork](gitartwork.svg)</p>
 <h1 align="center">Hi 👋 This is Astro</h1>
 
 <h3 align="center">A senior full-stack developer with over 8 years of experience building high-performance applications. I specialize in both frontend and backend development, offering a solution for your project needs. My expertise lies in delivering user-friendly and efficient software that drives business success.</h3>
